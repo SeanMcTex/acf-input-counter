@@ -110,7 +110,7 @@
 				return;
 			}
 			$display = sprintf(
-				__('chars: %1$s of %2$s', 'acf-counter'),
+				__('characters: %1$s of %2$s', 'acf-counter'),
 				'%%len%%',
 				'%%max%%'
 			);

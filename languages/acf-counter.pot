@@ -18,5 +18,5 @@ msgstr ""
 
 #: acf-input-counter.php:110
 #, php-format
-msgid "chars: %1$s of %2$s"
+msgid "characters: %1$s of %2$s"
 msgstr ""

@@ -8,7 +8,7 @@ This is a simple plugin that will add a counter below all ACF text and text area
 characters have been added and what the limit is. The display will look something like this:
 
 ```
-chars: 25 of 55
+characters: 25 of 55
 ```
 
 This plugin will not work in ACF 4 for 2 reasons:
